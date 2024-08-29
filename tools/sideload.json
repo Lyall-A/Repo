@@ -1,0 +1,22 @@
+{
+    "name": "Lyall's Repo",
+    "icon": null,
+    "apps": [
+        {
+            "name": "test",
+            "description": "testtt",
+            "version": "1.0.0",
+            "date": null,
+            "downloadUrl": "https://example.com",
+            "category": "test",
+            "parent": "hi",
+            "bundleId": null,
+            "icon": null,
+            "size": null,
+            "developer": [{ "name": "me" }],
+            "latestChangeLog": "hi",
+            "debs": [],
+            "gallery": []
+        }
+    ]
+}
